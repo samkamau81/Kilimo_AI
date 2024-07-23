@@ -4,13 +4,11 @@ Kilimo-AI is an AI-powered tool developed to help farmers in remote areas access
 
 
 ### Features
-AI-Powered Advice: Get accurate, specialized answers to your agricultural questions.
-![alt text](image.png)
-Kiswahili Translator: Perfect for farmers who are more comfortable with Swahili.
-![alt text](image-1.png)
-IoT Integration: Connect and control systems like smart irrigation.
-![alt text](image-2.png)
-![alt text](image-3.png)
+![alt text](Kilimo_AI_Illustration.png)
+- AI-Powered Advice: Get accurate, specialized answers to your agricultural questions.
+- Kiswahili Translator: Perfect for farmers who are more comfortable with Swahili.
+- IoT Integration: Connect and control systems like smart irrigation.
+
 
 ### Getting Started
 Follow these instructions to get a copy of Kilimo-AI up and running on your local machine for development and testing purposes.
