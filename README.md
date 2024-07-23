@@ -1,6 +1,6 @@
 ## Kilimo-AI
 
-Kilimo-AI is an AI-powered tool developed to help farmers in remote areas access specialized and personalized advice on agricultural issues with utmost accuracy. Using Large Language Models (LLMs) trained on agricultural datasets, Kilimo-AI generates answers to any question posed by a farmer. Additionally, it offers features such as a Kiswahili Translator, making it suitable for most Kenyan rural farmers who understand Swahili. Built on @streamlit, Kilimo-AI facilitates the integration of IoT systems like smart irrigation systems and other tools.
+Kilimo-AI is an GenAI-powered tool developed to help farmers in remote areas access specialized and personalized advice on agricultural issues with utmost accuracy. Using Large Language Models (LLMs) trained on agricultural datasets, Kilimo-AI generates answers to any question posed by a farmer. Additionally, it offers features such as a Kiswahili Translator, making it suitable for most Kenyan rural farmers who understand Swahili. Built on Streamlit, Kilimo-AI facilitates the integration of IoT systems like smart irrigation systems and other tools.
 
 
 ### Features
