@@ -19,9 +19,9 @@ Follow these instructions to get a copy of Kilimo-AI up and running on your loca
 
 #### Installation
 1. Clone the repository:
-'''python
+~~~
 git clone https://github.com/your-username/kilimo-ai.git
-'''
+~~~
 
 2. Navigate to the project directory:
 '''
