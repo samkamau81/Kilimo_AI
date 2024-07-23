@@ -24,18 +24,18 @@ git clone https://github.com/your-username/kilimo-ai.git
 ~~~
 
 2. Navigate to the project directory:
-'''
+~~~
 cd kilimo-ai
-'''
+~~~
 3. Install the dependencies:
-'''
+~~~
 pip install -r requirements.txt
-'''
+~~~
 4. Running Kilimo-AI
 To start the Kilimo-AI application, run:
-'''
+~~~
 streamlit run app.py
-'''
+~~~
 
 #### Usage
 - Ask Questions: Simply type your agricultural questions in the input box and receive AI-generated answers.
