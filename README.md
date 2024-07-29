@@ -61,3 +61,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 1. Replace https://github.com/your-username/kilimo-ai.git with the actual URL of your repository.
 2. Ensure you have the appropriate images in the images directory, and replace the placeholders with the actual paths.
 3. Customize the README further based on specific details and additional features of Kilimo-AI.
+
+
+----
+![WhatsApp Image 2024-07-29 at 23 19 57_f9ca14d4](https://github.com/user-attachments/assets/e706102f-ab37-4f6d-bf7a-ce083ca71e3b)
+
+
